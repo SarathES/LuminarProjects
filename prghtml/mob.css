@@ -1,0 +1,31 @@
+body{
+    background-color: rosybrown;
+}
+div{
+    border:1px solid black;
+    height: 150px;
+    width:30%;
+    float:left;
+}
+
+#section1{
+    background-color:cornsilk;
+    color:black;
+
+
+}
+#section2{
+    background-color:aqua;
+    color:black;
+
+
+}
+#section3{
+    background-color:darksalmon;
+    color:black;
+
+
+}
+h1{
+    text-align: center;
+}
