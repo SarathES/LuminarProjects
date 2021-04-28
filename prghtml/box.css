@@ -1,0 +1,41 @@
+div{
+    border:1px solid red;
+    width: 50%;
+    font-size:30px;
+    font-weight: 800;
+    text-decoration: line-through;
+    text-align:center;
+    
+
+    
+}
+/* #first{
+    margin-left:480px;;
+    padding-left:200px;
+  
+    
+}
+#second{
+    margin-top:400px;
+    margin-left:480px
+} */
+#first{
+    position:relative;
+    left:400px;
+}
+#second{
+    position: relative;
+    top:250px;
+    left:400px;
+
+}
+#third{
+    position:relative;
+    top:450px;
+    left:400px;
+}
+
+#inn{
+    position: relative;
+    left:10%;
+}
