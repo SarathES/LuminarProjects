@@ -1,0 +1,82 @@
+
+body{
+    background-color: whitesmoke;
+}
+    
+.divclass1
+{
+    width: 60%;
+}
+
+    
+.divclass2
+{
+    width: 40%;
+}
+.fabok{
+    margin-top: 200px;
+    margin-left: 260px;
+    color:  	#3b5998;
+
+
+}
+
+
+
+p{
+    margin-top: 10px;
+    margin-left: 260px;
+}
+.facebook{
+    margin-top: 20px;
+  margin-left: 10px;
+  width: 280px;
+  height: 50px;
+}
+.facebook1{
+ 
+    margin-top: 22px;
+    margin-left: 10px;
+    width: 280px;
+    height: 50px;
+    
+}
+.container{
+    margin-top: 40px;
+    width: 48%;
+    height: 320px;
+     
+    padding: 20px;
+    border: 2px solid #f2f2f2;
+  -webkit-box-shadow: 1px 1px 4px 0px rgba(176,176,176,1);
+     -moz-box-shadow: 1px 1px 4px 0px rgba(176,176,176,1);
+          box-shadow: 1px 1px 4px 0px rgba(176,176,176,1);
+  background-color:white;
+}
+
+.facebook2{
+    margin-top: 24px;
+    margin-left: 10px;
+    width: 290px;
+    height: 50px;
+    background-color: 	#3b5998;
+    color: white;
+    border: none;
+
+}
+
+.facebook3{
+    margin-top: 30px;
+    margin-left: 50px;
+    width: 200px;
+    height: 50px;
+    background-color: 	rgb(66, 184, 37);
+    color: white;
+    border: none;
+
+}
+a{  
+color: blue;
+margin-left: 70px;
+margin-top:29px;
+}
